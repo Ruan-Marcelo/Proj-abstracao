@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PorjAbstracao.Classes
+{
+    internal class Animal
+    {
+        //ATRIBUTOS ()
+        public string nomeDog;
+        public int idadeDog;
+
+    }
+}

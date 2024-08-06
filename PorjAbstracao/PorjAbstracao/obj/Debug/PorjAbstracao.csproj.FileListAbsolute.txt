@@ -1,0 +1,21 @@
+D:\Projeto ruan m. r. Luz\Programação Orientada Objeto\PorjAbstracao\PorjAbstracao\bin\Debug\PorjAbstracao.exe.config
+D:\Projeto ruan m. r. Luz\Programação Orientada Objeto\PorjAbstracao\PorjAbstracao\bin\Debug\PorjAbstracao.exe
+D:\Projeto ruan m. r. Luz\Programação Orientada Objeto\PorjAbstracao\PorjAbstracao\bin\Debug\PorjAbstracao.pdb
+D:\Projeto ruan m. r. Luz\Programação Orientada Objeto\PorjAbstracao\PorjAbstracao\obj\Debug\PorjAbstracao.csproj.AssemblyReference.cache
+D:\Projeto ruan m. r. Luz\Programação Orientada Objeto\PorjAbstracao\PorjAbstracao\obj\Debug\PorjAbstracao.csproj.SuggestedBindingRedirects.cache
+D:\Projeto ruan m. r. Luz\Programação Orientada Objeto\PorjAbstracao\PorjAbstracao\obj\Debug\PorjAbstracao.Properties.Resources.resources
+D:\Projeto ruan m. r. Luz\Programação Orientada Objeto\PorjAbstracao\PorjAbstracao\obj\Debug\PorjAbstracao.csproj.GenerateResource.cache
+D:\Projeto ruan m. r. Luz\Programação Orientada Objeto\PorjAbstracao\PorjAbstracao\obj\Debug\PorjAbstracao.csproj.CoreCompileInputs.cache
+D:\Projeto ruan m. r. Luz\Programação Orientada Objeto\PorjAbstracao\PorjAbstracao\obj\Debug\PorjAbstracao.exe
+D:\Projeto ruan m. r. Luz\Programação Orientada Objeto\PorjAbstracao\PorjAbstracao\obj\Debug\PorjAbstracao.pdb
+D:\Projeto ruan m. r. Luz\Programação Orientada Objeto\PorjAbstracao\PorjAbstracao\obj\Debug\PorjAbstracao.frmABSTRACAO.resources
+C:\Users\black\Downloads\PROJETOSVS2022\Programação Orientada Objeto-RuanLuz\Programação Orientada Objeto\PorjAbstracao\PorjAbstracao\bin\Debug\PorjAbstracao.exe.config
+C:\Users\black\Downloads\PROJETOSVS2022\Programação Orientada Objeto-RuanLuz\Programação Orientada Objeto\PorjAbstracao\PorjAbstracao\bin\Debug\PorjAbstracao.exe
+C:\Users\black\Downloads\PROJETOSVS2022\Programação Orientada Objeto-RuanLuz\Programação Orientada Objeto\PorjAbstracao\PorjAbstracao\bin\Debug\PorjAbstracao.pdb
+C:\Users\black\Downloads\PROJETOSVS2022\Programação Orientada Objeto-RuanLuz\Programação Orientada Objeto\PorjAbstracao\PorjAbstracao\obj\Debug\PorjAbstracao.csproj.AssemblyReference.cache
+C:\Users\black\Downloads\PROJETOSVS2022\Programação Orientada Objeto-RuanLuz\Programação Orientada Objeto\PorjAbstracao\PorjAbstracao\obj\Debug\PorjAbstracao.frmABSTRACAO.resources
+C:\Users\black\Downloads\PROJETOSVS2022\Programação Orientada Objeto-RuanLuz\Programação Orientada Objeto\PorjAbstracao\PorjAbstracao\obj\Debug\PorjAbstracao.Properties.Resources.resources
+C:\Users\black\Downloads\PROJETOSVS2022\Programação Orientada Objeto-RuanLuz\Programação Orientada Objeto\PorjAbstracao\PorjAbstracao\obj\Debug\PorjAbstracao.csproj.GenerateResource.cache
+C:\Users\black\Downloads\PROJETOSVS2022\Programação Orientada Objeto-RuanLuz\Programação Orientada Objeto\PorjAbstracao\PorjAbstracao\obj\Debug\PorjAbstracao.csproj.CoreCompileInputs.cache
+C:\Users\black\Downloads\PROJETOSVS2022\Programação Orientada Objeto-RuanLuz\Programação Orientada Objeto\PorjAbstracao\PorjAbstracao\obj\Debug\PorjAbstracao.exe
+C:\Users\black\Downloads\PROJETOSVS2022\Programação Orientada Objeto-RuanLuz\Programação Orientada Objeto\PorjAbstracao\PorjAbstracao\obj\Debug\PorjAbstracao.pdb
